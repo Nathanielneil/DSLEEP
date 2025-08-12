@@ -76,3 +76,8 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+
+# Large model files (download separately, see README)
+weights/shape_predictor_68_face_landmarks.dat
+weights/best.pt
+weights/yolov5.pt
